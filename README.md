@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @p1etro15
+- 👋 Hi, I’m @Drako
 
 - 👀 We are developing a new project called "1370 SHOP".
 
-- 💞️ I am currently collaborating with "uR0010".
+- 💞️ I am currently collaborating with "esquipun".
 
-- 📫 If you need to contact me, this is my discord "P1etro™.#5249"
+- 📫 If you need to contact me, this is my discord "Drako#5249"
 
 - ⚡ Fun fact: I like to play soccer.
 <!---
